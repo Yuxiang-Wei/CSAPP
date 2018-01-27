@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Decode.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Execute.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Fetch.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Memory.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Update.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/Write.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/inst_rom.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/regfile.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/y86cpu.v"
+verilog xil_defaultlib  "../../../seq.srcs/sources_1/new/y86cpu_a.v"
+verilog xil_defaultlib  "../../../seq.srcs/sim_1/new/y86_sim.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

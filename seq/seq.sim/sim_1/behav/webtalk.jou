@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Sat Dec 16 09:58:36 2017
+# Process ID: 744
+# Current directory: D:/Xilinx/Projects/seq/seq.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/Xilinx/Projects/seq/seq.sim/sim_1/behav/xsim.dir/y86_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Xilinx/Projects/seq/seq.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Xilinx/Projects/seq/seq.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/Xilinx/Projects/seq/seq.sim/sim_1/behav/xsim.dir/y86_sim_behav/webtalk/xsim_webtalk.tcl -notrace

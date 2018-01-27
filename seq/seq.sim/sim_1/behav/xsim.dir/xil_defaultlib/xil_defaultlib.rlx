@@ -1,0 +1,17 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+D:/Xilinx/Projects/seq/seq.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sim_1/new/y86_sim.v,1513388835,verilog,,,,y86_sim,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Decode.v,1512995359,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Decode,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v,1513088000,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Execute,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v,1513389514,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Fetch,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Memory.v,1513071848,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Memory,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Update.v,1512996705,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Update,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Write.v,1513070232,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,Write,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,1512987529,verilog,,,,,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/inst_rom.v,1513071898,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,inst_rom,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/regfile.v,1513388112,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,regfile,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/y86cpu.v,1513388113,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,y86cpu,,,,,,,,
+D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/y86cpu_a.v,1513388324,verilog,,,D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/defines.v,y86cpu_a,,,,,,,,

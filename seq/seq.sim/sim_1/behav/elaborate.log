@@ -1,0 +1,27 @@
+Vivado Simulator 2017.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.1/bin/unwrapped/win64.o/xelab.exe -wto 5c5ebe580a384b5993e5be41e498aa2c --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot y86_sim_behav xil_defaultlib.y86_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 1 for port Cnd [D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/y86cpu.v:54]
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 1 for port Cnd [D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/y86cpu.v:55]
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 1 for port Cnd [D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/y86cpu.v:58]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/inst_rom.v" Line 2. Module inst_rom doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/inst_rom.v" Line 2. Module inst_rom doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Fetch
+Compiling module xil_defaultlib.Decode
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.Execute
+Compiling module xil_defaultlib.Write
+Compiling module xil_defaultlib.Memory
+Compiling module xil_defaultlib.inst_rom
+Compiling module xil_defaultlib.Update
+Compiling module xil_defaultlib.y86cpu
+Compiling module xil_defaultlib.y86cpu_a
+Compiling module xil_defaultlib.y86_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot y86_sim_behav

@@ -1,0 +1,18 @@
+Vivado Simulator 2017.1
+Time resolution is 1 ps
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 21
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 22
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 23
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 64
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 66
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 67
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Fetch.v" Line 18
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 22
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 21
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 22
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 70
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 84
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Execute.v" Line 21
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Memory.v" Line 21
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Memory.v" Line 22
+Stopped at time : 270 ns : File "D:/Xilinx/Projects/seq/seq.srcs/sources_1/new/Memory.v" Line 23
